@@ -17,7 +17,7 @@
 
     <properties>
         <!-- can be 8 also -->
-        <java.version>8</java.version>
+        <java.version>1.8</java.version>
 
         <!-- can be 8.0.x also -->
         <tomcat.version>8.0.36</tomcat.version>
